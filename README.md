@@ -1,2 +1,2 @@
 # vQube-Release
-Release Package forvQube Connector: https://github.com/virtualq/vQube
+Release Package for vQube Connector: https://github.com/virtualq/vQube
